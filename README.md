@@ -1,7 +1,6 @@
 # Bikestore-project
 
-I completed a bike store sale project for my portfolio
-
+I completed a bike store sales project for my portfolio
 
 Please see documents attached.
 
